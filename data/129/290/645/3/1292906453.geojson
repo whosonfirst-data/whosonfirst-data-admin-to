@@ -47,7 +47,7 @@
         "wk:page":"Kanokupolu"
     },
     "wof:country":"TO",
-    "wof:geomhash":"c9e8840272f1b731620a502c5a320fc6",
+    "wof:geomhash":"9f655539a2c7075342ed868ae47b875d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -72,5 +72,5 @@
     -175.33473999999995,
     -21.0807
 ],
-  "geometry": {"coordinates":[-175.33473999999995,-21.0807],"type":"Point"}
+  "geometry": {"coordinates":[-175.33474,-21.0807],"type":"Point"}
 }

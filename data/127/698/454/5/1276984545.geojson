@@ -41,7 +41,7 @@
         "wk:page":"Faleloa"
     },
     "wof:country":"TO",
-    "wof:geomhash":"3d1406baa1779a9f2fee9f058d3f469a",
+    "wof:geomhash":"1a13e93fc7c24804611c1df1974ef3d1",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -66,5 +66,5 @@
     -174.28728999999996,
     -19.73392
 ],
-  "geometry": {"coordinates":[-174.28728999999996,-19.73392],"type":"Point"}
+  "geometry": {"coordinates":[-174.28729,-19.73392],"type":"Point"}
 }

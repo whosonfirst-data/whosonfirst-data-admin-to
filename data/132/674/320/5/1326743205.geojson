@@ -44,7 +44,7 @@
         "wk:page":"Nukuleka"
     },
     "wof:country":"TO",
-    "wof:geomhash":"3ad07947a51f24c9502bc7dfebb987db",
+    "wof:geomhash":"3d449b584ce333bd06e218f2068d6b42",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,5 +69,5 @@
     -175.12673999999996,
     -21.15191
 ],
-  "geometry": {"coordinates":[-175.12673999999996,-21.15191],"type":"Point"}
+  "geometry": {"coordinates":[-175.12674,-21.15191],"type":"Point"}
 }

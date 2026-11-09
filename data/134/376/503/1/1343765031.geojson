@@ -40,7 +40,7 @@
         "gn:id":4032568
     },
     "wof:country":"TO",
-    "wof:geomhash":"ec3d1c5066b9993d7f84bc4b9b9e5a36",
+    "wof:geomhash":"64e002d7780557dd0a23669ade6c10a7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,5 +65,5 @@
     -175.16666999999995,
     -21.2
 ],
-  "geometry": {"coordinates":[-175.16666999999995,-21.2],"type":"Point"}
+  "geometry": {"coordinates":[-175.16667,-21.2],"type":"Point"}
 }

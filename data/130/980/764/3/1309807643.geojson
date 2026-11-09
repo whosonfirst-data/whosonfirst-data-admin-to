@@ -44,7 +44,7 @@
         "wk:page":"Fangale%CA%BBounga"
     },
     "wof:country":"TO",
-    "wof:geomhash":"557d57d22f3ea79b83ccba6fbead9c70",
+    "wof:geomhash":"0386d86ee8a603c63453f9d94645e8d3",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -69,5 +69,5 @@
     -174.32256999999996,
     -19.75285
 ],
-  "geometry": {"coordinates":[-174.32256999999996,-19.75285],"type":"Point"}
+  "geometry": {"coordinates":[-174.32257,-19.75285],"type":"Point"}
 }

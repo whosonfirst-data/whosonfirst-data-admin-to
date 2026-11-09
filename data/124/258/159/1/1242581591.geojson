@@ -43,7 +43,7 @@
         "wk:page":"Fotua"
     },
     "wof:country":"TO",
-    "wof:geomhash":"eacda904a0f04e05466abff9b7d1ed9a",
+    "wof:geomhash":"8e146fd9733a36bbca3482cecceeff5e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -68,5 +68,5 @@
     -174.31748000000005,
     -19.74925
 ],
-  "geometry": {"coordinates":[-174.31748000000005,-19.74925],"type":"Point"}
+  "geometry": {"coordinates":[-174.31748,-19.74925],"type":"Point"}
 }

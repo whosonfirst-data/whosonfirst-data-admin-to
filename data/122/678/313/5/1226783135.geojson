@@ -37,7 +37,7 @@
         "wk:page":"Falehau"
     },
     "wof:country":"TO",
-    "wof:geomhash":"acea95c45bcd28ff53b6eb3f685b986b",
+    "wof:geomhash":"9fd2fe191fe3db43b752cfcb430fe120",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,5 +62,5 @@
     -173.76568999999995,
     -15.94565
 ],
-  "geometry": {"coordinates":[-173.76568999999995,-15.94565],"type":"Point"}
+  "geometry": {"coordinates":[-173.76569,-15.94565],"type":"Point"}
 }
