@@ -1,0 +1,72 @@
+{
+  "id": 9895059748,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-175.27143,-21.165,-175.27143,-21.165",
+    "geom:latitude":-21.165,
+    "geom:longitude":-175.27143,
+    "iso:country":"TO",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 4032529: name \"Liahona\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/4032529"
+        },
+        {
+            "citation":"GeoNames populated place 4032529: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/4032529"
+        },
+        {
+            "citation":"GeoNames populated place 4032529: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/4032529"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85679003 (Tongatapu), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632455,
+        85679003,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4032529
+    },
+    "wof:country":"TO",
+    "wof:geomhash":"cc339882923393cd73916c81994a3306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632455,
+            "locality_id":9895059748,
+            "region_id":85679003
+        }
+    ],
+    "wof:id":9895059748,
+    "wof:lastmodified":1795735269,
+    "wof:name":"Liahona",
+    "wof:parent_id":85679003,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-to",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -175.27143,
+    -21.165,
+    -175.27143,
+    -21.165
+],
+  "geometry": {"coordinates":[-175.27143,-21.165],"type":"Point"}
+}
